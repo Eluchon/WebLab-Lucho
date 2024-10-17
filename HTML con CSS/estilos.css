@@ -1,0 +1,17 @@
+.seccion2 {background-color: aqua;}
+
+div{
+    /* definir tamaño */
+   /* width: 200px;
+    height: 200px;
+    margin: auto; /* alineación horizontal */
+   /* align-content: center; /* alineación vertical */
+   text-align: center;
+
+  }
+
+  h1
+  {
+    font-family: cursive;
+    text-align: center;
+  }

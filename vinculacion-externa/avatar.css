@@ -1,0 +1,26 @@
+
+*{
+    color:#3B5D7A;
+}
+body{
+    background:#FAE9CD;
+}
+
+img{
+    border: solid;
+    border-color:#A56B9C;
+    border-radius: 35px; 
+}
+
+h1,p{
+    display: flex;
+    justify-content: center;  
+}
+
+h1{
+    text-decoration: underline;
+}
+.subtitle
+{
+    font-size: xx-small;
+}
